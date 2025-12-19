@@ -13,7 +13,7 @@
 ---
 
 ### 🛠 Tecnologias e Ferramentas
-Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
+Aqui estão as tecnologias que venho estudando e utilizando em meus projetos (estudando outras linguas mas no momento são essas que mais domino):
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
