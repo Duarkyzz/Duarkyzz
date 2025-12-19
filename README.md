@@ -23,14 +23,6 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
 ### 📫 Como me encontrar
 - **LinkedIn:** **Ainda não disponivel**
 - **E-mail:** [eduardoqueirozcarvalho978@gmail.com](mailto:seu-email@gmail.com)
