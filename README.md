@@ -1,35 +1,35 @@
-# Olá, eu sou o Eduardo Queiroz! 👋
+<h1 align="center">👻 Bem-vindo ao meu Mundo Pokémon 👻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhvOXowcTJiY3Y5c3lpbGtuM3poZDk0ajJhMWZkMGVzNjZrMmJscSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif" width="300">
+  <img src="LINK-DO-GENGAR-GIF" width="200px">
 </p>
 
-### 👨‍💻 Sobre mim
-- 🎓 Tenho **20 anos** e estou iniciando minha jornada na tecnologia.
-- 🚀 Meu objetivo é me tornar um **Desenvolvedor Full Stack**.
-- 📚 Atualmente focado em aprimorar meus conhecimentos em desenvolvimento web e lógica de programação.
-- 💼 Busco minha primeira oportunidade na área para aplicar meus estudos e crescer profissionalmente.
+## 🧬 Trainer Info
+
+- 🏷 Nome: Seu Nome
+- 💻 Classe: Ghost-type Developer
+- 🌑 Especialidade: Dark Code & Shadow Projects
+- 🎮 Pokémon Favorito: Gengar 👻
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
-Aqui estão as tecnologias que venho estudando e utilizando em meus projetos (estudando outras linguas mas no momento são essas que mais domino):
+## ⚡ Pokédex de Skills
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</div>
+🔥 Frontend  
+⚡ Backend  
+🌑 Banco de Dados  
+👾 Automação  
 
 ---
 
-### 📫 Como me encontrar
-- **LinkedIn:** **Ainda não disponivel**
-- **E-mail:** [eduardoqueirozcarvalho978@gmail.com](mailto:seu-email@gmail.com)
-- **Whatsapp** **(11) 95870-0025**
+## 🏆 Conquistas
+
+- 🥇 100+ commits nas sombras
+- 👻 Especialista em caçar bugs
+- 🌙 Código limpo até na madrugada
 
 ---
 
-<p align="center">
-  *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
-</p>
+## 🌌 Status
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
