@@ -34,19 +34,6 @@ Tenho uma mentalidade voltada para:
 
 ---
 
-## 💜 Minha Filosofia
-
-Assim como o Gengar é estratégico, rápido e sempre um passo à frente, eu busco:
-
-- Pensar antes de executar  
-- Escrever código com propósito  
-- Criar interfaces que transmitam personalidade  
-- Evoluir continuamente como desenvolvedor  
-
-Tecnologia para mim não é apenas ferramenta — é construção, criatividade e impacto.
-
----
-
 ## ⚡ Stack Principal
 
 <p align="center">
