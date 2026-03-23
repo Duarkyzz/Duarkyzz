@@ -71,8 +71,8 @@ Minha abordagem é simples:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Duarkyzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarkyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@ Minha abordagem é simples:
 ## 🔥 Consistência & Evolução
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=Duarkyzz&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ Minha abordagem é simples:
 ## 🌌 Atividade Recente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duarkyzz&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -98,10 +98,10 @@ Minha abordagem é simples:
 Estou aberto a oportunidades, networking e troca de conhecimento.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEULINK">
+  <a href="www.linkedin.com/in/eduardo-queiroz-42aa7b356">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="eduardoqueirozcarvalho978@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
