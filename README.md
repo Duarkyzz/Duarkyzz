@@ -8,54 +8,63 @@
 </p>
 
 <h1 align="center">Olá 👋 Eu sou o Eduardo</h1>
-<h3 align="center">Desenvolvedor JavaScript • 20 anos • Construindo experiências web modernas</h3>
+<h3 align="center">Desenvolvedor em evolução para Fullstack • 20 anos • Construindo soluções reais</h3>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor focado em **JavaScript moderno**, com interesse especial em criar interfaces intuitivas, performáticas e bem estruturadas.
+Atualmente estou em transição para me tornar um **desenvolvedor fullstack**, com foco principal em **Python** e construção de aplicações completas.
 
-Minha motivação vai além de apenas escrever código — eu gosto de **resolver problemas**, melhorar experiências e construir soluções que realmente façam sentido para o usuário.
+Gosto de ir além do básico — não apenas escrever código, mas **entender como as coisas funcionam por trás**, resolver problemas e criar sistemas funcionais.
 
-Atualmente estou aprofundando meus conhecimentos em:
+Hoje, venho desenvolvendo projetos práticos (como bots e automações) que envolvem:
 
-- TypeScript
-- Next.js
-- Arquitetura de aplicações front-end
-- Boas práticas e padrões de código
+- Lógica de programação
+- Integração com APIs
+- Estruturação de sistemas reais
 
-Tenho uma mentalidade voltada para:
+Minha abordagem é simples:
 
-- Código limpo e organizado
-- Performance
-- Experiência do usuário
-- Evolução constante
+> aprender fazendo, errando e evoluindo constantemente.
 
 ---
 
 ## ⚡ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
 </p>
 
-### 🔹 Front-end
+### 🔹 Linguagens
+- Python (principal)
+- JavaScript
 - HTML5
 - CSS3
-- React
-- Estruturação responsiva
-- Componentização
 
-### 🔹 Back-end
-- Node.js
-- APIs REST
+### 🔹 Conhecimentos
+- Integração com APIs
+- Lógica de programação
 - Estruturação de projetos
+- Git (básico, em evolução)
 
-### 🔹 Atualmente estudando
-- TypeScript
-- Next.js
-- Melhores práticas de performance
+### 🔹 Atualmente focado em
+- Desenvolvimento Fullstack
+- Projetos práticos (bots, automações, sistemas)
+- Aprimoramento em Python
+- Boas práticas de código
+
+---
+
+## 🧪 Projetos em Destaque
+
+🚧 Atualmente desenvolvendo:
+
+- 🤖 Bot para Discord com:
+  - Inteligência artificial
+  - Sistema de moderação (ban, kick, mute)
+  - Controle de permissões
+  - Personalidade customizada
 
 ---
 
@@ -86,7 +95,7 @@ Tenho uma mentalidade voltada para:
 
 ## 🌍 Vamos nos conectar
 
-Estou aberto a oportunidades, networking e trocas de conhecimento.
+Estou aberto a oportunidades, networking e troca de conhecimento.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEULINK">
@@ -100,11 +109,7 @@ Estou aberto a oportunidades, networking e trocas de conhecimento.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="90px"/>
-</p>
-
-<p align="center">
-  <i>"Construindo com propósito. Evoluindo constantemente."</i>
+  <i>"Evoluindo um commit de cada vez."</i>
 </p>
 
 <!-- FOOTER -->
