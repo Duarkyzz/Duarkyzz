@@ -16,17 +16,13 @@
 
 Atualmente estou em transição para me tornar um **desenvolvedor fullstack**, com foco principal em **Python** e construção de aplicações completas.
 
-Gosto de ir além do básico — não apenas escrever código, mas **entender como as coisas funcionam por trás**, resolver problemas e criar sistemas funcionais.
+Estou constantemente indo atrás de desenvolver meu conhecimento, sempre indo atrás de cursos e extremamente focado na faculdade, e treinando e anotando ideias de projetos ideais..
 
 Hoje, venho desenvolvendo projetos práticos (como bots e automações) que envolvem:
 
 - Lógica de programação
 - Integração com APIs
 - Estruturação de sistemas reais
-
-Minha abordagem é simples:
-
-> aprender fazendo, errando e evoluindo constantemente.
 
 ---
 
@@ -60,7 +56,7 @@ Minha abordagem é simples:
 
 🚧 Atualmente desenvolvendo:
 
-- 🤖 Bot para Discord com:
+- 🤖 Bot para Discord (Chogoun) com:
   - Inteligência artificial
   - Sistema de moderação (ban, kick, mute)
   - Controle de permissões
@@ -95,7 +91,7 @@ Minha abordagem é simples:
 
 ## 🌍 Vamos nos conectar
 
-Estou aberto a oportunidades, networking e troca de conhecimento.
+Estou aberto a oportunidades, dicas, networking e troca de conhecimento.
 
 <p align="center">
   <a href="www.linkedin.com/in/eduardo-queiroz-42aa7b356">
@@ -109,7 +105,7 @@ Estou aberto a oportunidades, networking e troca de conhecimento.
 ---
 
 <p align="center">
-  <i>"Evoluindo um commit de cada vez."</i>
+  <i>"jesus te ama <3"</i>
 </p>
 
 <!-- FOOTER -->
