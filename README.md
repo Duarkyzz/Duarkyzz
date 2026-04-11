@@ -54,15 +54,6 @@ Atualmente estou focado em evoluir como **Full Stack**, criando aplicações com
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Duarkyzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarkyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
 ## 🔥 Consistência
 
 <p align="center">
