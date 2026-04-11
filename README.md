@@ -1,59 +1,56 @@
 <!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Eduardo&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Eduardo%20Queiroz&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="160px" alt="Gengar Pokémon"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon"/>
 </p>
 
-<h1 align="center">Olá 👋, eu sou o Eduardo</h1>
-<h3 align="center">Desenvolvedor Fullstack em evolução • 20 anos • Transformando ideias em soluções reais</h3>
+<h1 align="center">Fala 👋, eu sou o Eduardo</h1>
+<h3 align="center">Desenvolvedor Fullstack em evolução</h3>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por criar **projetos que funcionam de verdade**, usando Python, JavaScript e tecnologias web.  
-Sempre em busca de aprendizado contínuo e desafios práticos.
+Sou desenvolvedor em evolução, focado em construir **projetos reais e funcionais**, não só teoria.  
+Tenho experiência com desenvolvimento web e automações, utilizando **Python e JavaScript**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudando-Fullstack-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projetos-Bots/Automação-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foco-Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+Atualmente estou focado em evoluir como **Full Stack**, criando aplicações completas com frontend, backend e banco de dados.
 
 ---
 
 ## ⚡ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,mongodb,git,github,vscode"/>
 </p>
-
-**Principais skills:**
-
-| Linguagens | Frameworks & Tools | Conceitos |
-|------------|-----------------|------------|
-| Python | Discord.py / Flask | Lógica de programação |
-| JavaScript | Node.js / React | Estruturação de sistemas |
-| HTML5 & CSS3 | Git & GitHub | Integração de APIs |
 
 ---
 
-## 🧪 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🤖 Chogoun – Bot para Discord
+### 📈 RiseTrack — Sistema de Metas (Full Stack) *(em desenvolvimento)*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Personalidade-6A0DAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Moderação-Ban/Kick/Mute-6A0DAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Permissões-Avançadas-6A0DAD?style=for-the-badge"/>
-</p>
+> Aplicação web voltada para organização de metas e evolução pessoal.
 
-> Projeto em constante evolução, focado em aprendizado real e entrega prática.
+- Desenvolvimento com **JavaScript, Node.js, HTML, CSS e MongoDB**
+- Sistema de autenticação de usuários
+- Estrutura de backend e organização de dados
+- Interface web com foco em usabilidade
+- Projeto em evolução contínua (arquitetura e boas práticas)
 
-Outros projetos pequenos podem ser adicionados aqui em cards menores com GIFs ou mini screenshots.
+---
+
+### 🤖 Chogoun — Bot para Discord
+
+> Bot autoral com foco em automação e interações.
+
+- Desenvolvido em **Python** com integração à **Discord API**
+- Comandos personalizados e automações
+- Integração com APIs externas
+- Estrutura modular e manutenção contínua
 
 ---
 
@@ -66,16 +63,15 @@ Outros projetos pequenos podem ser adicionados aqui em cards menores com GIFs ou
 
 ---
 
-## 🔥 Atividade & Consistência
+## 🔥 Consistência
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Duarkyzz&theme=tokyonight&hide_border=true&background=0d1117"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duarkyzz&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&hide_border=true"/>
 </p>
 
 ---
 
-## 🌍 Contato & Networking
+## 🌍 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-queiroz-42aa7b356" target="_blank">
@@ -92,7 +88,7 @@ Outros projetos pequenos podem ser adicionados aqui em cards menores com GIFs ou
   <i>"Jesus te ama 💜"</i>
 </p>
 
-<!-- FOOTER ANIMADO -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
 </p>
