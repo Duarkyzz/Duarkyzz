@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon)"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon)"/>
 </p>
 
 <h1 align="center">Fala 👋, eu sou o Eduardo</h1>
