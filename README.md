@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Eduardo%20Queiroz&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Eduardo%20Queiroz&fontSize=45&fontColor=ffffff&animation=fadeIn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V4YjQ0aGs5Nzk2aGVtM2FvcHgwaXR3eDJ3Ymc0bnJoeHgxaHpzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif)"/>
 </p>
 
 <p align="center">
