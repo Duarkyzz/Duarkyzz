@@ -67,6 +67,7 @@ Atualmente estou focado em evoluir como **Full Stack**, criando aplicações com
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Duarkyzz&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=Duarkyzz&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 ---
