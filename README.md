@@ -54,6 +54,10 @@ Atualmente estou focado em evoluir como **Full Stack**, criando aplicações com
 
 ---
 
+### ALERTA
+
+O unico projeto mais completo está sendo o projeto do chogoun que terá atualizações futuras, mas no momento, estou focado em aprimorar meus conhecimentos para que os projetos tenham mais destaques!
+
 ## 🔥 Consistência
 
 <p align="center">
