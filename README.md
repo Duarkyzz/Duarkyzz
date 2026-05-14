@@ -1,90 +1,120 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Eduardo%20Queiroz&fontSize=45&fontColor=ffffff&animation=fadeIn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V4YjQ0aGs5Nzk2aGVtM2FvcHgwaXR3eDJ3Ymc0bnJoeHgxaHpzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Eduardo%20Queiroz&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<!-- STACK ICONS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="140px" alt="Gengar Pokémon)"/>
-</p>
-
-<h1 align="center">Fala 👋, eu sou o Eduardo</h1>
-<h3 align="center">Desenvolvedor Fullstack em evolução</h3>
-
----
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor em evolução, focado em construir **projetos reais e funcionais**, não só teoria.  
-Tenho experiência com desenvolvimento web e automações, utilizando **Python e JavaScript**.
-
-Atualmente estou focado em evoluir como **Full Stack**, criando aplicações completas com frontend, backend e banco de dados.
-
----
-
-## ⚡ Stack Principal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,mongodb,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,mongodb,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+# 👨‍💻 Eduardo Queiroz
 
-### 📈 RiseTrack — Sistema de Metas (Full Stack) *(em desenvolvimento)*
+## 🚀 Sobre mim
 
-> Aplicação web voltada para organização de metas e evolução pessoal.
+Desenvolvedor focado em **Backend Development**, automações e construção de aplicações reais.
 
-- Desenvolvimento com **JavaScript, Node.js, HTML, CSS e MongoDB**
-- Sistema de autenticação de usuários
-- Estrutura de backend e organização de dados
-- Interface web com foco em usabilidade
-- Projeto em evolução contínua (arquitetura e boas práticas)
+Atualmente estou aprofundando meus conhecimentos em:
+- APIs
+- Arquitetura backend
+- Banco de dados
+- Estruturação de sistemas
+- Automação
+- Boas práticas de desenvolvimento
 
----
-
-### 🤖 Chogoun — Bot para Discord
-
-> Bot autoral com foco em automação e interações.
-
-- Desenvolvido em **Python** com integração à **Discord API**
-- Comandos personalizados e automações
-- Integração com APIs externas
-- Estrutura modular e manutenção contínua
+Meu foco é evoluir criando aplicações funcionais, organizadas e escaláveis.
 
 ---
 
-### ALERTA
+# 🧠 Stack Principal
 
-O unico projeto mais completo está sendo o projeto do chogoun que terá atualizações futuras, mas no momento, estou focado em aprimorar meus conhecimentos para que os projetos tenham mais destaques!
+```txt
+Python • JavaScript • Node.js • MongoDB
+HTML • CSS • Git • GitHub
+```
 
-## 🔥 Consistência
+---
+
+# 📌 Projetos
+
+## 🤖 Chogoun — Discord Bot
+
+Bot desenvolvido em Python com foco em automações e interações para Discord.
+
+### Tecnologias
+- Python
+- Discord API
+- APIs externas
+
+### Funcionalidades
+- Sistema modular
+- Comandos personalizados
+- Integrações externas
+- Estrutura organizada para futuras expansões
+
+> Atualmente é meu projeto mais completo e segue em evolução contínua.
+
+---
+
+## 📈 RiseTrack *(em desenvolvimento)*
+
+Sistema voltado para organização de metas e evolução pessoal.
+
+### Tecnologias
+- Node.js
+- JavaScript
+- MongoDB
+- HTML/CSS
+
+### Objetivos do projeto
+- Estruturação backend
+- Sistema de autenticação
+- Organização de dados
+- Arquitetura de aplicação
+- Evolução de boas práticas
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duarkyzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarkyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+# 🔥 Atividade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Duarkyzz&theme=tokyonight&hide_border=true&background=0d1117"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duarkyzz&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&hide_border=true"/>
 </p>
 
 ---
 
-## 🌍 Contato
+# 🌎 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-queiroz-42aa7b356" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-queiroz-42aa7b356">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:eduardoqueirozcarvalho978@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Jesus te ama 💜"</i>
+  <i>"Building one project at a time."</i>
 </p>
 
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
 </p>
+````
