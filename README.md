@@ -58,22 +58,23 @@ Bot desenvolvido em Python com foco em automações e interações para Discord.
 
 ---
 
-## 📈 RiseTrack *(em desenvolvimento)*
+## 🛠️ DudzOP *(em desenvolvimento)*
 
-Sistema voltado para organização de metas e evolução pessoal.
+Projeto open source focado na criação de um otimizador de Windows funcional, moderno e profissional.
 
 ### Tecnologias
-- Node.js
-- JavaScript
-- MongoDB
-- HTML/CSS
+- Python
+- CustomTkinter
+- Windows API
 
 ### Objetivos do projeto
-- Estruturação backend
-- Sistema de autenticação
-- Organização de dados
-- Arquitetura de aplicação
-- Evolução de boas práticas
+- Limpeza de arquivos temporários
+- Gerenciamento de processos
+- Otimização de desempenho
+- Interface moderna e intuitiva
+- Estrutura escalável para futuras funcionalidades
+
+> O projeto tem como foco unir performance, automação e experiência do usuário em uma única aplicação.
 
 ---
 
@@ -117,4 +118,3 @@ Sistema voltado para organização de metas e evolução pessoal.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
 </p>
-````
