@@ -1,120 +1,160 @@
-<!-- HEADER -->
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Eduardo%20Queiroz&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Eduardo%20Queiroz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
 </p>
 
-<!-- STACK ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,mongodb,git,github,vscode,linux" />
+  <strong>Backend Developer • Python • Node.js • Automation</strong>
 </p>
 
----
-
-# 👨‍💻 Eduardo Queiroz
-
-## 🚀 Sobre mim
-
-Desenvolvedor focado em **Backend Development**, automações e construção de aplicações reais.
-
-Atualmente estou aprofundando meus conhecimentos em:
-- APIs
-- Arquitetura backend
-- Banco de dados
-- Estruturação de sistemas
-- Automação
-- Boas práticas de desenvolvimento
-
-Meu foco é evoluir criando aplicações funcionais, organizadas e escaláveis.
-
----
-
-# 🧠 Stack Principal
-
-```txt
-Python • JavaScript • Node.js • MongoDB
-HTML • CSS • Git • GitHub
-```
-
----
-
-# 📌 Projetos
-
-## 🤖 Chogoun — Discord Bot
-
-Bot desenvolvido em Python com foco em automações e interações para Discord.
-
-### Tecnologias
-- Python
-- Discord API
-- APIs externas
-
-### Funcionalidades
-- Sistema modular
-- Comandos personalizados
-- Integrações externas
-- Estrutura organizada para futuras expansões
-
-> Atualmente é meu projeto mais completo e segue em evolução contínua.
-
----
-
-## 🛠️ DudzOP *(em desenvolvimento)*
-
-Projeto open source focado na criação de um otimizador de Windows funcional, moderno e profissional.
-
-### Tecnologias
-- Python
-- CustomTkinter
-- Windows API
-
-### Objetivos do projeto
-- Limpeza de arquivos temporários
-- Gerenciamento de processos
-- Otimização de desempenho
-- Interface moderna e intuitiva
-- Estrutura escalável para futuras funcionalidades
-
-> O projeto tem como foco unir performance, automação e experiência do usuário em uma única aplicação.
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duarkyzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarkyzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  Building real-world applications, automation tools and backend systems.
 </p>
 
----
-
-# 🔥 Atividade
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Duarkyzz&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
+  <a href="https://github.com/Duarkyzz">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
----
-
-# 🌎 Contato
-
-<p align="center">
   <a href="https://www.linkedin.com/in/eduardo-queiroz-42aa7b356">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:eduardoqueirozcarvalho978@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Building one project at a time."</i>
+# 👨‍💻 About Me
+
+I'm **Eduardo Queiroz**, a developer focused on **Backend Development, automation and real-world software projects**.
+
+I enjoy understanding how systems work behind the scenes — from APIs and databases to application architecture and automation.
+
+Currently, I'm focused on improving my skills in:
+
+- 🐍 Python
+- 🟢 Node.js
+- 🗄️ Databases
+- 🔌 REST APIs
+- ⚙️ Automation
+- 🏗️ Backend Architecture
+- 🧠 Programming Logic
+- 🧪 Software Engineering Practices
+
+My goal is simple:
+
+> **Build useful software, understand how it works, and continuously improve the way I build it.**
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Chogoun
+
+> Modular Discord bot built with Python.
+
+Chogoun is one of my main projects and was created to explore **APIs, automation, modular architecture and asynchronous programming**.
+
+### ⚙️ Features
+
+- Discord commands
+- Moderation systems
+- Music functionality
+- External API integrations
+- AI-powered interactions
+- Modular architecture
+- Continuous improvements
+
+### 🧰 Built With
+
+`Python` `Discord API` `yt-dlp` `APIs`
+
+---
+
+## 🛠️ DudzOP
+
+> Windows optimization and automation tool.
+
+DudzOP is an open-source project focused on creating a **modern and practical Windows optimization utility**.
+
+The project combines automation, system management and a graphical interface.
+
+### ⚙️ Planned Features
+
+- Temporary file cleanup
+- Process management
+- Windows optimization
+- System utilities
+- Performance tools
+- Modern graphical interface
+
+### 🧰 Built With
+
+`Python` `CustomTkinter` `Windows API`
+
+> 🚧 **Status:** Active development
+
+---
+
+# 📚 Currently Learning
+
+I'm currently working on strengthening my fundamentals instead of simply learning more technologies.
+
+### Backend
+
+- REST APIs
+- Authentication
+- API architecture
+- Database design
+- Error handling
+- Application structure
+
+### Programming
+
+- Data structures
+- Algorithms
+- Object-Oriented Programming
+- Clean Code
+- Design patterns
+- Problem solving
+
+### Next Steps
+
+```text
+Python
+   ↓
+Backend Development
+   ↓
+APIs & Databases
+   ↓
+System Architecture
+   ↓
+Production Applications
