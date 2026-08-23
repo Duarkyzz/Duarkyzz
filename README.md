@@ -25,12 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Duarkyzz&color=9D4EDD&style=flat&label=Visualizações+do+perfil" alt="profile views"/>
-</p>
-
-<br>
-
 <!-- ========================= SOBRE ========================= -->
 ## 🟣 Sobre mim
 
