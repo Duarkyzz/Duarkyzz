@@ -1,8 +1,12 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,100:9D4EDD&height=200&section=header&text=Eduardo%20Queiroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Node.js&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Eduardo%20Queiroz&fontSize=42&fontColor=ffffff&fontAlignY=35"
   />
+</p>
+
+<p align="center">
+  <strong>Backend Developer • Python & Node.js</strong>
 </p>
 
 <p align="center">
@@ -104,5 +108,5 @@ Python  →  Backend Development  →  APIs & Databases  →  Arquitetura de Sis
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:2E0854&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer"/>
 </p>
