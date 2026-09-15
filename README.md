@@ -31,9 +31,7 @@
 Sou **Eduardo Queiroz**, desenvolvedor backend apaixonado por entender **o que acontece por trás da tela**.
 Gosto de mergulhar em APIs, bancos de dados e arquitetura — construindo software que funciona de verdade, não só que "parece funcionar".
 
-```txt
-> foco atual: dominar os fundamentos antes de correr atrás de mais tecnologias
-```
+`> foco atual: dominar os fundamentos antes de correr atrás de mais tecnologias`
 
 **No momento, estou aprofundando:**
 
@@ -58,27 +56,29 @@ Gosto de mergulhar em APIs, bancos de dados e arquitetura — construindo softwa
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 Chogoun</h3>
-      <p>Bot modular para Discord, construído em Python para explorar APIs, automação e programação assíncrona.</p>
+      <h3>📡 StatusWatch</h3>
+      <p>Aplicação de monitoramento de sites e APIs que verifica disponibilidade, mede tempo de resposta e registra o histórico das verificações.</p>
       <p>
-        <img src="https://img.shields.io/badge/Comandos-9D4EDD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Moderação-9D4EDD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Música-9D4EDD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/IA-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Monitoramento-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/APIs-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Histórico-9D4EDD?style=flat-square"/>
       </p>
-      <sub><code>Python</code> · <code>Discord API</code> · <code>yt-dlp</code></sub>
-    </td>
-    <td width="50%">
-      <h3>🛠️ DudzOP</h3>
-      <p>Ferramenta open-source de otimização e automação para Windows, com interface gráfica moderna.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Limpeza-2E0854?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Processos-2E0854?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Performance-2E0854?style=flat-square"/>
-      </p>
-      <sub><code>Python</code> · <code>CustomTkinter</code> · <code>Windows API</code></sub>
+      <sub><code>Python</code> · <code>Requests</code> · <code>SQLite</code></sub>
       <br><br>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-9D4EDD"/>
+    </td>
+    <td width="50%">
+      <h3>🔍 CodePulse</h3>
+      <p>Ferramenta para análise de projetos de código, explorando estrutura de arquivos, métricas, documentação e qualidade do código.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Análise-2E0854?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Qualidade-2E0854?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Automação-2E0854?style=flat-square"/>
+      </p>
+      <sub><code>Python</code> · <code>Pathlib</code> · <code>Análise de Código</code></sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/status-pausado-2E0854"/>
     </td>
   </tr>
 </table>
@@ -88,9 +88,7 @@ Gosto de mergulhar em APIs, bancos de dados e arquitetura — construindo softwa
 <!-- ========================= TRAJETÓRIA ========================= -->
 ## 🟣 Trajetória
 
-```
 Python  →  Backend Development  →  APIs & Databases  →  Arquitetura de Sistemas  →  Produção
-```
 
 <br>
 
