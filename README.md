@@ -57,16 +57,18 @@ Gosto de mergulhar em APIs, bancos de dados e arquitetura — construindo softwa
   <tr>
     <td width="50%">
       <h3>📡 StatusWatch</h3>
-      <p>Aplicação de monitoramento de sites e APIs que verifica disponibilidade, mede tempo de resposta e registra o histórico das verificações.</p>
+      <p>Aplicação desktop para monitoramento de sites e serviços, capaz de verificar disponibilidade, código HTTP e tempo de resposta, mantendo um histórico das verificações vinculado à conta do usuário.</p>
       <p>
         <img src="https://img.shields.io/badge/Monitoramento-9D4EDD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/APIs-9D4EDD?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQLite-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PySide6-9D4EDD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Autenticação-9D4EDD?style=flat-square"/>
         <img src="https://img.shields.io/badge/Histórico-9D4EDD?style=flat-square"/>
       </p>
-      <sub><code>Python</code> · <code>Requests</code> · <code>SQLite</code></sub>
+      <sub><code>Python</code> · <code>PySide6</code> · <code>Requests</code> · <code>PostgreSQL</code> · <code>Supabase</code></sub>
       <br><br>
-      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-9D4EDD"/>
+      <p>🚀 <strong>Primeira versão Beta lançada em 24/09/2026.</strong> O projeto continua em desenvolvimento, com novas funcionalidades e melhorias planejadas.</p>
+      <img src="https://img.shields.io/badge/status-Beta-9D4EDD"/>
     </td>
     <td width="50%">
       <h3>🔍 CodePulse</h3>
