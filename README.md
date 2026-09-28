@@ -44,7 +44,7 @@ Backend, dados e ferramentas
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,postgres,supabase,mongodb,git,github,vscode,linux&theme=dark" alt="Python, JavaScript, Node.js, PostgreSQL, Supabase, MongoDB, Git, GitHub, VS Code e Linux" />
 </p>
 
-🟣 Interface e tecnologias em aprendizado no Orbit
+🟣 Interface e tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, TypeScript, React, Next.js e Tailwind CSS" />
 </p>
