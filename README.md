@@ -44,7 +44,7 @@ Backend, dados e ferramentas
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,postgres,supabase,mongodb,git,github,vscode,linux&theme=dark" alt="Python, JavaScript, Node.js, PostgreSQL, Supabase, MongoDB, Git, GitHub, VS Code e Linux" />
 </p>
 
-Interface e tecnologias em aprendizado no Orbit
+🟣 Interface e tecnologias em aprendizado no Orbit
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, TypeScript, React, Next.js e Tailwind CSS" />
 </p>
@@ -86,7 +86,6 @@ Interface e tecnologias em aprendizado no Orbit
       <sub><code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>shadcn/ui</code></sub>
       <br><br>
       <p>🛠️ <strong>Fase atual: construção da interface de autenticação.</strong> O desenvolvimento acompanha um tutorial, com personalização dos componentes. Autenticação funcional, persistência e mensagens em tempo real estão planejadas.</p>
-      <p><a href="https://www.youtube.com/watch?v=lXITA5MZIiI">🎬 Tutorial de referência</a></p>
       <img src="https://img.shields.io/badge/status-em_desenvolvimento-2E0854" alt="Status: em desenvolvimento" />
     </td>
   </tr>
